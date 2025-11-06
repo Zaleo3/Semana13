@@ -1,0 +1,22 @@
+{
+  "name": "semana13",
+  "version": "1.0.0",
+  "description": "Proyecto node semana 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaleo3/Semana13.git"
+  },
+  "author": "Giovanni Virhuez Zavaleta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaleo3/Semana13/issues"
+  },
+  "homepage": "https://github.com/Zaleo3/Semana13#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
